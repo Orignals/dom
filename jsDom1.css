@@ -1,0 +1,16 @@
+.highlight {
+  background-color: yellow;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.myButton{
+  pointer-events: none;
+  
+}
